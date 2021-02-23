@@ -1,4 +1,4 @@
-#changes the name of the pipeline
+#changes the name of the pipelines
 
 az devops configure --defaults organization=https://dev.azure.com/singh0034/
 az devops configure --defaults project=firstpipeline
